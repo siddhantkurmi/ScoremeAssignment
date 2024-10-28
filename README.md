@@ -16,4 +16,4 @@ Update HF_TOKEN: Add your Hugging Face API token in the .env file under HF_TOKEN
 
 Set Up Environment: Create a virtual environment and install dependencies by running the requirements.txt file. This will ensure all required libraries are available for the notebook.
 
-Run Model.ipynb: Open Model.ipynb and run each cell sequentially to execute the full model pipeline and generate results.
+Run model.ipynb: Open model.ipynb and run each cell sequentially to execute the full model pipeline and generate results.
